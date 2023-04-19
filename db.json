@@ -27,7 +27,7 @@
       "price": 700,
       "original-price": 800,
       "star": 5,
-      "imageUrl": "@/assets/images/Midnights taylor.png",
+      "imageUrl": "./assets/images/Midnights taylor.png",
       "track-list": [
         "Lavender Haze",
         "Maroon",
@@ -62,7 +62,7 @@
       "price": 800,
       "original-price": 800,
       "star": 5,
-      "imageUrl": "@/assets/images/Legend.png",
+      "imageUrl": "./assets/images/Legend.png",
       "track-list": [
         "Is This Love",
         "No Woman, No Cry",
@@ -98,7 +98,7 @@
       "price": 800,
       "original-price": 700,
       "star": 5,
-      "imageUrl": "@/assets/images/Thriller Michael Jackson.png",
+      "imageUrl": "./assets/images/Thriller Michael Jackson.png",
       "track-list": [
         "Wanna Be Startin' Somethin'",
         "Baby Be Mine",
