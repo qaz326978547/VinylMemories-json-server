@@ -20,6 +20,7 @@
   "products": [
     {
       "id": 1,
+      "type": "Western Music",
       "title": "Midnights",
       "artist": "Taylor Swift",
       "Release-Year": "2006",
@@ -45,16 +46,11 @@
         "hight": "0.35in",
         "width": "12.16in",
         "weight": "0.73lb"
-      },
-      "customer-reviews": {
-        "name": "",
-        "star": 0,
-        "message": "",
-        "time": ""
       }
     },
     {
       "id": 2,
+      "type": "Western Music",
       "title": "Legend",
       "artist": "Bob Marley",
       "Release-Year": "2003",
@@ -81,17 +77,12 @@
         "width": "11.16in",
         "weight": "0.33lb",
         "Number": 1
-      },
-      "customer-reviews": {
-        "name": "",
-        "star": 0,
-        "message": "",
-        "time": ""
       }
     },
     {
       "id": 3,
-      "title": " Thriller",
+      "type": "Western Music",
+      "title": "Thriller",
       "artist": "Michael Jackson",
       "Release-Year": "2016",
       "Language": "English",
@@ -112,18 +103,266 @@
       "product-details": {
         "length": "13.39in",
         "hight": "0.36in",
-        "width": "11.16in",
+        "width": "10.16in",
         "weight": "0.33lb",
-        "Number": 2
-      },
-      "customer-reviews": {
-        "name": "",
-        "star": 0,
-        "message": "",
-        "time": ""
+        "Number": 1
+      }
+    },
+    {
+      "id": 4,
+      "type": "Western Music",
+      "title": "Ctrl",
+      "artist": "SZA",
+      "Release-Year": "2017",
+      "Language": "English",
+      "price": 600,
+      "original-price": 700,
+      "star": 4,
+      "imageUrl": "Ctrl.png",
+      "track-list": [
+        "Supermodel",
+        "Love Galore - SZA feat. Travis Scott",
+        "Drew Barrymore",
+        "Prom",
+        "The Weekend",
+        "Go Gina",
+        "Broken Clocks",
+        "Anything"
+      ],
+      "product-details": {
+        "length": "13.39in",
+        "hight": "0.36in",
+        "width": "10.16in",
+        "weight": "0.33lb",
+        "Number": 1
+      }
+    },
+    {
+      "id": 5,
+      "type": "Asian Music",
+      "title": "LESLIE CHEUNG",
+      "artist": "張國榮-Leslie Cheung",
+      "Release-Year": "2017",
+      "Language": "Chinese",
+      "price": 800,
+      "original-price": 900,
+      "star": 4,
+      "imageUrl": "張國榮.png",
+      "track-list": [
+        "マシュマロ",
+        "追",
+        "紅",
+        "Prom",
+        "夜半歌聲(電影版)",
+        "今生今世",
+        "偷情",
+        "有心人"
+      ],
+      "product-details": {
+        "length": "13.39in",
+        "hight": "0.36in",
+        "width": "10.16in",
+        "weight": "0.33lb",
+        "Number": 1
+      }
+    },
+    {
+      "id": 6,
+      "type": "Asian Music",
+      "title": "愛你伍佰年",
+      "artist": "伍百-Wu Ba",
+      "Release-Year": "2021",
+      "Language": "Chinese",
+      "price": 800,
+      "original-price": 900,
+      "star": 4,
+      "imageUrl": "五百.png",
+      "track-list": [
+        "挪威的森林",
+        "樹枝孤鳥(台語)",
+        "愛情的盡頭",
+        "煞到你(台語)",
+        "夜半歌聲(電影版)",
+        "世界第一等(Live)",
+        "浪人情歌",
+        "白鴿"
+      ],
+      "product-details": {
+        "length": "13.39in",
+        "hight": "0.36in",
+        "width": "10.16in",
+        "weight": "0.33lb",
+        "Number": 1
+      }
+    },
+    {
+      "id": 7,
+      "type": "Asian Music",
+      "title": "不願一個人",
+      "artist": "周華健-Wakin Chau",
+      "Release-Year": "2021",
+      "Language": "Chinese",
+      "price": 800,
+      "original-price": 900,
+      "star": 4,
+      "imageUrl": "五百.png",
+      "track-list": [
+        "不願一個人",
+        "親親我的寶貝",
+        "純真的心不變",
+        "到海邊",
+        "我要把怎樣的世界留給你",
+        "請聽我談情說愛",
+        "這次我真的做到",
+        "大嶼山之戀"
+      ],
+      "product-details": {
+        "length": "13.39in",
+        "hight": "0.36in",
+        "width": "10.16in",
+        "weight": "0.33lb",
+        "Number": 1
+      }
+    },
+    {
+      "id": 8,
+      "type": "Asian Music",
+      "title": "回憶蓮蓮",
+      "artist": "林憶蓮-Lam Yik Lin",
+      "Release-Year": "2021",
+      "Language": "Chinese",
+      "price": 800,
+      "original-price": 900,
+      "star": 4,
+      "imageUrl": "林憶蓮.png",
+      "track-list": [
+        "傷痕",
+        "誘惑的街",
+        "為你我受冷風吹",
+        "這些那些",
+        "夜太黑",
+        "鏗鏘玫瑰",
+        "聽說愛情回來過",
+        "不許哭"
+      ],
+      "product-details": {
+        "length": "13.39in",
+        "hight": "0.36in",
+        "width": "10.16in",
+        "weight": "0.33lb",
+        "Number": 1
+      }
+    },
+    {
+      "id": 9,
+      "type": "Classical Music",
+      "title": "BEETHOVEN: Symphony No.7",
+      "artist": "Sir Simon Rattle",
+      "Release-Year": "2021",
+      "Language": "English",
+      "price": 700,
+      "original-price": 800,
+      "star": 4,
+      "imageUrl": "Sir Simon Rattle.png",
+      "track-list": [
+        "Symphony No. 7 in a Major, Op. 92: I. Poco Sostenuto - Vivace",
+        "Symphony No. 7 in a Major, Op. 92: II. Allegretto",
+        "Symphony No. 7 in a Major, Op. 92: III. Presto - Assai Meno Presto",
+        "Symphony No. 7 in a Major, Op. 92: IV. Allegro Con Brio"
+      ],
+      "product-details": {
+        "length": "13.39in",
+        "hight": "0.36in",
+        "width": "10.16in",
+        "weight": "0.33lb",
+        "Number": 1
+      }
+    },
+    {
+      "id": 10,
+      "type": "Classical Music",
+      "title": "Cinema",
+      "artist": "Alexandre Tharaud",
+      "Release-Year": "2021",
+      "Language": "English",
+      "price": 800,
+      "original-price": 800,
+      "star": 5,
+      "imageUrl": "Alexandre Tharaud.png",
+      "track-list": [
+        "Concertino",
+        "Over the Moon",
+        "Main Theme",
+        "Camille ",
+        "Generique"
+      ],
+      "product-details": {
+        "length": "13.39in",
+        "hight": "0.36in",
+        "width": "10.16in",
+        "weight": "0.33lb",
+        "Number": 1
+      }
+    },
+    {
+      "id": 11,
+      "type": "Classical Music",
+      "title": "Chopin: Preludes",
+      "artist": "Dong Hyek Lim",
+      "Release-Year": "2021",
+      "Language": "English",
+      "price": 800,
+      "original-price": 800,
+      "star": 5,
+      "imageUrl": "林東赫.png",
+      "track-list": [
+        "24 Preludes, Op. 28: No. 1 in C Major",
+        "24 Preludes, Op. 28: No. 2 in A Minor",
+        "24 Preludes, Op. 28: No. 3 in G Major",
+        "24 Preludes, Op. 28: No. 4 in E Minor",
+        "24 Preludes, Op. 28: No. 5 in D Major"
+      ],
+      "product-details": {
+        "length": "13.39in",
+        "hight": "0.36in",
+        "width": "10.16in",
+        "weight": "0.33lb",
+        "Number": 1
+      }
+    },
+    {
+      "id": 12,
+      "type": "Classical Music",
+      "title": "Mozart: Clarinet Concerto",
+      "artist": "Sabine Meyer",
+      "Release-Year": "2021",
+      "Language": "English",
+      "price": 800,
+      "original-price": 800,
+      "star": 5,
+      "imageUrl": "林東赫.png",
+      "track-list": [
+        "Clarinet Concerto in A K622: I. Allegro",
+        "Clarinet Concerto in A Major, K. 622: II. Adagio",
+        "Clarinet Concerto in A K622: III. Rondo (Allegro)",
+        "Première Rhapsodie",
+        "Fantasma/Cantos"
+      ],
+      "product-details": {
+        "length": "13.39in",
+        "hight": "0.36in",
+        "width": "10.16in",
+        "weight": "0.33lb",
+        "Number": 1
       }
     }
   ],
+  "customer-reviews": {
+    "name": "",
+    "star": 0,
+    "message": "",
+    "time": ""
+  },
   "posts": [
     {
       "id": 1,
